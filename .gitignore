@@ -1,0 +1,7 @@
+*.mypy_cache
+.DS_store
+~*
+*.pytest_cache
+*.lprof
+*__pycache__/
+*.vscode/

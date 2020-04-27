@@ -1,0 +1,22 @@
+name: hpcpython
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.8
+  - numpy
+  - numexpr
+  - matplotlib
+  - cython
+  - cffi
+  - mpi4py
+  - ipykernel
+  - scipy
+  - black
+  - mypy
+  - bandit
+  - pylint
+  - flake8
+  - pydocstyle
+  - line_profiler
+  - memory_profiler
+  - psutil
