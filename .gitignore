@@ -5,3 +5,4 @@
 *.lprof
 *__pycache__/
 *.vscode/
+my/
